@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hello, I'm Egor 👋</h1>
   <h3>Backend Developer | Python Enthusiast | Linux Power User</h3>
-  <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/> -->
+  <img src="slon_iz_mha.jpg" width="400"/>
   
   <div id="badges" align="center">
     <a href="https://t.me/teoblow">
